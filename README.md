@@ -20,7 +20,7 @@
 
 <br>
 
-🎓 Second year Data Science student  
+🎓 Data Science student  
 🧪 Background in quality assurance and development  
 📊 Interested in Data Science, IA, Analytics and Process Optimization  
 🐍 Currently learning Python and R  
