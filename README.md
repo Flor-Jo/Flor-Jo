@@ -86,10 +86,10 @@
 ## 📌 Featured Projects
 
 🔹 Exploratory Data Analysis  
-🔹 Machine Learning projects  
-🔹 Data visualization dashboards  
-🔹 QA testing practice projects  
-🔹 Industry & healthcare related datasets  
+🔹  
+🔹
+🔹 
+🔹 
 
 ---
 
